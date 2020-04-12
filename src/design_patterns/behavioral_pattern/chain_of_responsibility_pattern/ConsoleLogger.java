@@ -1,4 +1,4 @@
-package design_patterns.structural_pattern.chain_of_responsibility_pattern;
+package design_patterns.behavioral_pattern.chain_of_responsibility_pattern;
 
 public class ConsoleLogger extends AbstractLogger {
 	
